@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AndroidMidTerm.Example</string>
+    <string name="a_label">A</string>
 </resources>
